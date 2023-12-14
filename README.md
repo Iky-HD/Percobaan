@@ -5,17 +5,17 @@
  $ pkg update && pkg upgrade
  $ pkg install python git
  $ pip install requests bs4 futures
- $ pip install cython
+ $ pip install python
  $ rm -rf Brute
- $ git clone https://github.com/Yayan-XD/Brute
+ $ git clone https://github.com/Iky-HD/Percobaan
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
-  $ cd Brute
+  $ cd Percobaan
   $ git pull
-  $ python run.py
+  $ python Cobalagi.py
  ```
 
 ##### catatan:
